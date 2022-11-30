@@ -4,19 +4,21 @@
 1. What is XAI and its various techniques
 2. How applying XAI on various types of data and will help different stakeholders(Consumer,Auditors,AI Engineers)
 
-Types of data and the XAI techniques that was used in the research:
-Tabular:SHAP,LIME, What-If Tool, InterpretML, Anchor
-Image: Grad-CAM, Captum, LRP toolbox
-Text: SS3.iNNvestigate
-Time series: Vector Autoregression model(VAR),LioNets, NeuralProphet
+Types of data and the XAI techniques that was used in the research:<br />
+Tabular:SHAP,LIME, What-If Tool, InterpretML, Anchor<br />
+Image: Grad-CAM, Captum, LRP toolbox<br />
+Text: SS3.iNNvestigate<br />
+Time series: Vector Autoregression model(VAR),LioNets, NeuralProphet<br />
 
 
-Report and presentation done in collaboration with:
-Peng Rend (Brandon) Gay
+Report and presentation done in collaboration with:<br />
+
+Peng Rend (Brandon) Gay<br />
 linkedin.com/in/brandongay-sg/
 
-Jonathan Eduard Lim
-linkedin.com/in/jonathaneduardlim/
+Jonathan Eduard Lim<br />
+linkedin.com/in/jonathaneduardlim/<br />
+https://github.com/22002713
 
-Meng Yuan (Lawrence) Teo
+Meng Yuan (Lawrence) Teo<br />
 https://www.linkedin.com/in/my-teo-lawrence/
