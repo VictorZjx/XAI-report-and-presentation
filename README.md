@@ -14,7 +14,7 @@ Time series: Vector Autoregression model(VAR),LioNets, NeuralProphet<br />
 Report and presentation done in collaboration with:<br />
 
 Peng Rend (Brandon) Gay<br />
-linkedin.com/in/brandongay-sg/
+https://linkedin.com/in/brandongay-sg/
 
 Jonathan Eduard Lim<br />
 linkedin.com/in/jonathaneduardlim/<br />
