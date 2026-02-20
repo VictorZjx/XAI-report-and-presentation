@@ -17,7 +17,7 @@ Peng Rend (Brandon) Gay<br />
 https://linkedin.com/in/brandongay-sg/
 
 Jonathan Eduard Lim<br />
-linkedin.com/in/jonathaneduardlim/<br />
+https://linkedin.com/in/jonathaneduardlim/<br />
 https://github.com/22002713
 
 Meng Yuan (Lawrence) Teo<br />
